@@ -1,16 +1,28 @@
 # Ciudades Pilas Colas
-
-Crear una aplicación que muestre un menú con las siguientes opciones:
-Usar Colas.
-Usar Pilas
-Salir
-1.1. Inserta ciudad
-1.2. Eliminar ciudad
-1.3. Mostrar cantidad de ciudades
-1.4. Volver
- 
-2.1 Insertar ciudad
-2.2 Retirar ciudad
-2.3 Mostrar la ultima ciudad
-2.4 Mostrar cantidad de ciudades
-2.5 volver
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="container">
+        <h2>Menú de Aplicación: Pilas</h2>
+        <ul>
+            <li>1. Inserta ciudad</li>
+            <li>2. Eliminar ciudad</li>
+            <li>3. Mostrar cantidad de ciudades</li>
+            <li>4. Volver</li>
+            <li>5. Salir</li>
+        </ul>
+        <div class="info">
+            <h2>Menú de Aplicación: Pilas</h2>
+            <li>1. Inserta ciudad</li>
+            <li>2. Eliminar ciudad</li>
+            <li>3. Mostrar cantidad de ciudades</li>
+            <li>4. Volver</li>
+            <li>5. Salir</li>
+        </div>
+    </div>
+</body>
+</html>
